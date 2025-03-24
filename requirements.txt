@@ -1,0 +1,15 @@
+cmake
+opencv-python 
+numpy==1.26.4
+face-recognition 
+requests 
+scikit-learn 
+streamlit 
+pandas 
+matplotlib 
+python-dotenv
+flask
+wheel 
+setuptool
+mysql-connector-python==8.0.16 
+pillow 
